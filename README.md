@@ -3,17 +3,17 @@ Welcome to the repository for AG Products Tanzania created by Tharusha Kavinda. 
 ### Introduction
 AG Products Tanzania is a leading provider of agricultural products and services in Tanzania. Their website serves as an online presence to showcase their wide range of products, provide information about their services, and facilitate customer engagement and support.
 ### Features
-•	Responsive Design: Optimized for all devices, ensuring a seamless user experience on desktops, tablets, and mobile phones.
-•	Product Catalog: Detailed descriptions and images of our agricultural products.
-•	Contact Form: Easy-to-use contact form for customer inquiries.
-•	SEO Friendly: Structured to be search engine friendly, improving visibility and search rankings.
-•	Interactive UI Components: Engaging and interactive elements to enhance user experience.
+-	Responsive Design: Optimized for all devices, ensuring a seamless user experience on desktops, tablets, and mobile phones.
+-	Product Catalog: Detailed descriptions and images of our agricultural products.
+-	Contact Form: Easy-to-use contact form for customer inquiries.
+-	SEO Friendly: Structured to be search engine friendly, improving visibility and search rankings.
+-	Interactive UI Components: Engaging and interactive elements to enhance user experience.
 ### Installation
 To set up this project locally, follow these steps:
 ### Prerequisites
-•	HTML
-•	CSS
-•	JS
+-	HTML
+-	CSS
+-	JS
 ### Steps
 1.Clone the repository:
 git clone [https://github.com/TharushaK01/ag-products-tanzania.git](https://github.com/TharushaK01/AGProducts/tree/main)
