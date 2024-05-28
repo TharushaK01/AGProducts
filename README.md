@@ -16,7 +16,7 @@ Prerequisites
 •	JS
 Steps
 1.Clone the repository:
-git clone https://github.com/yourusername/ag-products-tanzania.git
+git clone https://github.com/TharushaK01/ag-products-tanzania.git
 2.Navigate to the project directory:
 cd ag-products-tanzania
 3.Install the dependencies:
