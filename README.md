@@ -15,17 +15,17 @@ To set up this project locally, follow these steps:
 -	CSS
 -	JS
 ### Steps
-1.Clone the repository:
-git clone [https://github.com/TharushaK01/ag-products-tanzania.git](https://github.com/TharushaK01/AGProducts/tree/main)
-2.Navigate to the project directory:
-cd ag-products-tanzania
-3.Install the dependencies:
-npm install
-4.Set up the environment variables. Create a .env file in the root directory and add the following:
-DB_CONNECTION_STRING=your-database-connection-string
-API_KEY=your-api-key
-5.Start the development server:
-npm start
+1.Clone the repository:</br>
+git clone [https://github.com/TharushaK01/ag-products-tanzania.git](https://github.com/TharushaK01/AGProducts/tree/main)</br></br>
+2.Navigate to the project directory:</br>
+cd ag-products-tanzania</br></br>
+3.Install the dependencies:</br>
+npm install</br></br>
+4.Set up the environment variables. Create a .env file in the root directory and add the following:</br>
+DB_CONNECTION_STRING=your-database-connection-string</br>
+API_KEY=your-api-key</br></br>
+5.Start the development server:</br>
+npm start</br></br>
 ### Usage
 Once the project is set up and running, you can access the website locally at https://agproducts.co.tz. Use the website to explore their product catalog, read about their services, and contact them through the provided form.
 ### Running Tests
@@ -44,7 +44,7 @@ git push origin feature/your-feature-name
 ### License
 This project is licensed under the MIT License.
 ### Contact
-For questions, feedback, or support, you can reach us at:
-Email: tharushakavinda01@gmail.com
-GitHub: TharushaK01
-X : KavindaTharusha
+For questions, feedback, or support, you can reach us at:</br>
+Email: tharushakavinda01@gmail.com</br>
+GitHub: TharushaK01</br>
+X : KavindaTharusha</br>
