@@ -9,6 +9,11 @@ AG Products Tanzania is a leading provider of agricultural products and services
 -	SEO Friendly: Structured to be search engine friendly, improving visibility and search rankings.
 -	Interactive UI Components: Engaging and interactive elements to enhance user experience.
 
+## Screenshots
+
+<img src="Screenshots/Chats.png" width="185" height="400"> 
+
+
 ### Prerequisites
 -	HTML
 -	CSS
