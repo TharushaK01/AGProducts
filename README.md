@@ -11,7 +11,7 @@ AG Products Tanzania is a leading provider of agricultural products and services
 
 ## Screenshots
 
-<img src="Screenshots/Chats.png" width="185" height="400"> 
+<img src="aghome.jfif" width="700" height="400"> 
 
 
 ### Prerequisites
